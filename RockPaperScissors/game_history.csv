@@ -1,0 +1,22 @@
+timestamp,player_choice,computer_choice,result,player_score,computer_score,round_number,streak
+2024-11-19 16:41:36,paper,scissors,Lose,4,5,1,0
+2024-11-19 16:41:40,paper,scissors,Lose,3,5,2,0
+2024-11-19 16:41:44,paper,scissors,Lose,2,5,3,0
+2024-11-19 16:41:53,paper,scissors,Lose,1,5,4,0
+2024-11-19 16:42:03,paper,paper,Tie,1,5,5,0
+2024-12-04 10:19:01,paper,paper,Tie,5,5,1,0
+2024-12-04 10:19:05,paper,scissors,Lose,4,5,2,0
+2024-12-04 10:19:08,rock,scissors,Win,4,4,3,1
+2024-12-04 10:19:12,scissors,rock,Lose,3,4,4,0
+2024-12-04 10:19:15,rock,scissors,Win,3,3,5,1
+2024-12-04 10:19:19,paper,rock,Win,3,2,6,2
+2024-12-04 10:19:22,rock,rock,Tie,3,2,7,0
+2024-12-04 10:19:25,rock,scissors,Win,3,1,8,1
+2024-12-04 10:19:29,scissors,rock,Lose,2,1,9,0
+2024-12-04 10:19:33,scissors,paper,Win,2,0,10,1
+2024-12-04 10:19:36,paper,scissors,Lose,4,5,1,0
+2024-12-04 10:19:39,paper,scissors,Lose,3,5,2,0
+2024-12-04 10:20:33,paper,scissors,Lose,2,5,3,0
+2024-12-04 10:20:36,paper,scissors,Lose,1,5,4,0
+2024-12-04 10:20:39,scissors,paper,Win,1,4,5,1
+2024-12-04 10:20:42,rock,rock,Tie,1,4,6,0
