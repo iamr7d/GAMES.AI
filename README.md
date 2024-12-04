@@ -49,15 +49,17 @@ python main_menu.py
 - **Rock Paper Scissors**: Show hand gestures to camera
 - **Snake Game**: Arrow keys to move, 'A' to toggle AI mode
 
-Press ESC in any game to quit.
+### Common Controls
+- ESC: Return to main menu
+- P: Pause game
+- SPACE: Start game/Continue
+- H: Toggle hand controls (where applicable)
 
 ## Features
 
-- Hand tracking using MediaPipe
-- AI learning mechanisms
-- Particle effects and modern UI
-- Sound effects support (add .mp3/.wav files to assets/music)
-
-## Note
-
-For best performance, ensure good lighting for webcam-based games.
+- Modern UI with glow effects and smooth animations
+- Hand gesture recognition using MediaPipe
+- AI opponents and pathfinding
+- Particle effects and visual feedback
+- Sound effects and background music
+- Pause menus and tutorials
